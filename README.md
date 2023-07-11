@@ -8,4 +8,7 @@ The dataset contains following:
 - products
 - departments
 
-The full details can be found 
+# Libraries used:
+- pandas for data analysis
+- seaborn for visualization
+
